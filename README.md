@@ -7,11 +7,11 @@ This project implements the K-Means clustering algorithm to segment mall custome
 
 The dataset used in this project is included in the repository. It contains customer data with the following columns:
 
-CustomerID: Unique identifier for each customer.
-Gender: The gender of the customer.
-Age: The age of the customer.
-Annual Income (k$): The annual income of the customer in thousands of dollars.
-Spending Score (1-100): A score assigned to customers based on their spending behavior.
+*CustomerID:* Unique identifier for each customer.
+*Gender:* The gender of the customer.
+*Age:* The age of the customer.
+*Annual Income (k$):* The annual income of the customer in thousands of dollars.
+*Spending Score (1-100):* A score assigned to customers based on their spending behavior.
 You can directly use this dataset to replicate the customer segmentation process.
 
 ## Table of Contents
