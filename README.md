@@ -3,6 +3,17 @@
 ## Overview
 This project implements the K-Means clustering algorithm to segment mall customers based on their **Age**, **Annual Income**, and **Spending Score**. The goal is to group customers into clusters that exhibit similar characteristics for targeted marketing or customer segmentation strategies.
 
+## Dataset:
+
+The dataset used in this project is included in the repository. It contains customer data with the following columns:
+
+CustomerID: Unique identifier for each customer.
+Gender: The gender of the customer.
+Age: The age of the customer.
+Annual Income (k$): The annual income of the customer in thousands of dollars.
+Spending Score (1-100): A score assigned to customers based on their spending behavior.
+You can directly use this dataset to replicate the customer segmentation process.
+
 ## Table of Contents
 - [Installation](#installation)
 - [How to Run](#how-to-run)
